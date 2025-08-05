@@ -1,2 +1,2 @@
 # Muskan_certifications-
-Verified certificates in Data Science,AI .
+A collection of my professional certificates from various technical courses, internships, and workshops.
